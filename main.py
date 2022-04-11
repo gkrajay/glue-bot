@@ -189,4 +189,4 @@ snipe_message_author = None
 snipe_message_id = None
 
 keep_alive()
-client.run('OTU4MDIzMjQ4OTcxNDMxOTg2.YkHSrQ.y0YJQpU2QwaRnQRwKb48WCtJu4I')
+client.run('put ur token here')
