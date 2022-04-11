@@ -1,4 +1,4 @@
 # Glue-Bot
 Discord Bot
 Replit Link:
-https://Glue-Bot.gkrajay.repl.co 
+https://replit.com/@gkrajay/Glue-Bot
